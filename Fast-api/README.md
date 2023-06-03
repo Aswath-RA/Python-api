@@ -8,10 +8,11 @@ and for running this install.
 "pip install uvicorn"
 
 
-after installing create python env if you need ,Other wise code the api and run.
 
 main -> class Name
 app -> object which you craeted .
---reload -> if you save your code if will reload automatically.
+--reload -> if you save your code it will reload automatically.
 
-uvicorn main:app --reload
+after installing create python env if you need , write the code and run the below command .
+
+"uvicorn main:app --reload"
