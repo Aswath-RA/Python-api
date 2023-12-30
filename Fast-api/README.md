@@ -1,5 +1,16 @@
+to set environment in mac
+
+"python3 -m venv venv"
+
+enter
+
+"source venv/bin/activate"
+
+enter
+
 To Follow up these code 
 First install Fast-api by doing.
+
 
 "pip install fastapi"
 
